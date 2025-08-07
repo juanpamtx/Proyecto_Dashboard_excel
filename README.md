@@ -1,4 +1,4 @@
-# Proyecto_IA_estudiantes
+
 
 # AI Assistant Usage in student life #
 
@@ -36,12 +36,12 @@ All data is synthetically generated using controlled distributions, real-world l
 ## **Possible Use Cases** ##
 This dataset is rich with potential for:
 
-**EDA:** Visualize session behavior across levels, tasks, or disciplines
-**Classification:** Predict likelihood of reuse (UsedAgain) or final outcome
-**Regression:** Model satisfaction or session length based on context
-**Clustering:** Segment students by AI interaction behavior
-**Feature engineering practice:** Derive prompt density, session efficiency, or task difficulty
-**Survey-style analysis:** Discover what makes students satisfied or frustrated
+- **EDA:** Visualize session behavior across levels, tasks, or disciplines
+- **Classification:** Predict likelihood of reuse (UsedAgain) or final outcome
+- **Regression:** Model satisfaction or session length based on context
+- **Clustering:** Segment students by AI interaction behavior
+- **Feature engineering practice:** Derive prompt density, session efficiency, or task difficulty
+- **Survey-style analysis:** Discover what makes students satisfied or frustrated
 
 ## **Key Features** ##
 - Clean and ready-to-use CSV
