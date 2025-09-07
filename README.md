@@ -1,10 +1,10 @@
 # AI Assistant Usage in student life #
 
-## **¿Qué es este datasheet?**##
+## **Explicación del datasheet** ##
 Son las datos recogidos de como los estudiantes de diferentes grados utilizan un asistente IA para realizar las tareas académicas. 
 Cada fila es una sesión única en la cual se muestra el nivel del estudiante, la disciplina, el tipo de tarea para la que se utiliza la IA, la duración de la sesión, la eficacia, el grado de satisfacción y se han vuelto a utilizar la herramienta IA.
 
-## **¿Cómo está estructurado este datasheet?**##
+## **¿Cómo está estructurado este datasheet?** ##
 El tamaño de este datasheet es de 10.000 filas y 11 columnas. A continuación detallo el nombre de las columnas:
 - **SessionID:** Identificador único de la sesión
 - **StudentLevel:** Nivel académico del estudiante (puede ser "High School", "Undergraduate" y "Graduate")
